@@ -13,4 +13,7 @@
 ## vim
 * Enabled scrolling and cursor
 * Enabled line numbers
+* [Pathogen package manager](https://github.com/tpope/vim-pathogen)
+* [NERDTree file system viewer](https://github.com/scrooloose/nerdtree)
+*
 

@@ -41,4 +41,13 @@ set ai
 set si
 set wrap
 
+" Pathogen plugin manager
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+" NerdTree: File System View
+let g:NERDTreeWinSize = 60
+
+
 
